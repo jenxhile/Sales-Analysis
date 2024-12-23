@@ -1,6 +1,7 @@
 # Myyntidatan analyysi
 
 ## Yleiskuvaus
+Tässä projektissa pääasiallisena analyysikeinona käytetään tilastollisia testejä ja korrelaatioanalyysiä, joiden avulla tutkitaan muuttujien välisiä yhteyksiä ja ryhmien keskiarvoeroja.
 Tämä projekti analysoi myyntidataa tiedostosta sales_data_sample.csv. Tavoitteena on vastata seuraaviin kysymyksiin:
 * Onko tilausarvon ja tilausmäärän välillä yhteyttä?
 * Vaihteleeko myynti eri sesonkien välillä?
